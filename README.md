@@ -1,2 +1,2 @@
-# myytribe
+# MyTribe
 SCSS & SASS Project
